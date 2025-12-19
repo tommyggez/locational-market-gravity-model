@@ -22,3 +22,6 @@ data/*
 # ---- os junk ----
 .DS_Store
 Thumbs.db
+
+# ignore Word temp files
+~$*.docx
