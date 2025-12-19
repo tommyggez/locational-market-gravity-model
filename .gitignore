@@ -25,3 +25,6 @@ Thumbs.db
 
 # ignore Word temp files
 *.docx
+
+# ignore output html files
+*.html
