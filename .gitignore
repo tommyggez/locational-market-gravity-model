@@ -24,4 +24,4 @@ data/*
 Thumbs.db
 
 # ignore Word temp files
-~$*.docx
+*.docx
